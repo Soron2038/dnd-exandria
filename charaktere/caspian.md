@@ -51,7 +51,7 @@
 - **Armor:** Light Armor
 - **Weapons:** Simple Weapons *(keine Martial Weapons; Bards haben kein Weapon Mastery)*
 - **Tools:** Thieves' Tools · 3 Musical Instruments (z. B. Reise-Laute)
-- **Languages:** Common + 2 weitere (z. B. Elvish, Draconic — frei wählbar)
+- **Languages:** Common, **Draconic** *(arkane Inschriften/Etiketten auf altem Trödel)*, **Gnomish** *(Sprache der Tüftler & Spieluhr-Macher)*
 
 ## Weapons
 | Weapon | Attack | Damage | Properties |
@@ -83,9 +83,14 @@
 
 **1st-Level Spells:**
 - *Bard (prepared, 4):* **Cure Wounds** · **Disguise Self** · **Identify** · **Silent Image**
-- *Magic Initiate (Wizard):* **Find Familiar** 🦉 *(1×/Long Rest gratis + über Spell Slots)*
+- *Magic Initiate (Wizard):* **Find Familiar** 🐕 *(1×/Long Rest gratis + über Spell Slots)*
 
 > *Identify* passt wie angegossen zum Sammler: enthüllt die magischen Eigenschaften eines Fundstücks.
+
+### Familiar 🐕 — junger Labrador-Welpe (Name: t.b.d.)
+DM-Reskin: läuft mechanisch über den **Cat-Statblock** (Tiny, **Speed 40 ft**, **Keen Smell** =
+Advantage auf Perception per Geruch). Freundlich, unscheinbar — sieht aus wie ein ganz normaler
+Hund, nicht wie ein beschworener Geist. Kann als Späher dienen und die **Help**-Action geben.
 
 ## Ausrüstung & Vermögen
 - **Getragen:** Leather Armor, 2× Dagger, Light Crossbow (20 Bolts)
