@@ -133,13 +133,46 @@ ein **Memory-Devourer** (reskin Intellect Devourer/Mindwitness), Spektral-Echos.
   - Großzügiger mit **Heroischer Inspiration** für tolles Rollenspiel.
 - Bei späterer Mehr-Spieler-Variante: Begegnungen wieder hochskalieren, Sidekick streichen.
 
-## 8. Persönliche Hooks (NACH Session 0 ausfüllen)
-*Hier die Verbindungen zwischen Björns Charakter-Hintergrund und dem Plot eintragen:*
-- Warum ist der Charakter ausgerechnet in Aschenfurt? →
-- Welches persönliche Geheimnis/Verlust spiegelt das Thema „Erinnerung/Vergessen"? →
-- Wie verbindet sich der Hintergrund mit der Wissenden Herrin / Veyra Lumen / dem Vestige? →
-- Welcher NSC wird zur persönlichen Bindung (Akt-I-Gegenschlag, Stufe 3)? →
-- Optionaler Twist, der den Hintergrund mit Asch oder dem Kult verwebt: →
+## 8. Persönliche Hooks — **Caspian** (eingearbeitet)
+
+**Charakter:** Mensch, Barde (Wayfarer), Wundersammler & Langfinger. Ziehvater
+**Meister Aldebran** verschwunden; Erinnerungen an ihn **verblassen**; Andenken =
+**namenlose Spieluhr** (stets warm, spielt bisweilen von selbst). Makel: unheilbare Neugier.
+
+> Björns Wahl passt fast unheimlich gut. So verwebe ich es (Spielern unbekannt):
+
+- **Warum nach Aschenfurt?** Die Spieluhr ist Caspians „Kompass": Sie spielt **häufiger
+  und klarer, je weiter er nach Osten** reist — Richtung Aschenfurt / der Versunkenen
+  Athenäum. Dazu führen Aldebrans letzte Notizen/Spuren in dieselbe Richtung. Der
+  unmittelbare Session-1-Hook: Gerüchte über ein Dorf, in dem „die Leute vergessen".
+- **Verblassende Erinnerung = das Vergessen.** Aldebrans Verschwinden ist ein **frühes
+  Opfer** desselben Phänomens, das Aschenfurt heimsucht. Caspian trägt das Thema also
+  *persönlich* im Herzen, bevor er den Kult überhaupt kennt.
+- **Wer war Aldebran wirklich?** Ein ehemaliger **Sucher/Devotee der Wissenden Herrin**
+  (oder ein Schüler von Schwester Ennoia, s. §6), der einst von der Athenäum erfuhr und
+  die Spieluhr barg, um sie zu **beschützen**. Er ging gen Aschenfurt, um den erwachenden
+  Kult zu stoppen — und wurde Opfer/verschleppt. Mögliche Wiederbegegnung: als
+  Erinnerungs-Echo, als „Vergessener" im Athenäum, oder (bittersüß) gerettet/erlöst im Finale.
+- **Die Spieluhr-Melodie = Veyras Lied.** Die namenlose Melodie ist **Veyra Lumens
+  letztes Lied** — ein Resonanz-/Sigel-Schlüssel, der mit dem schlafenden Vestige
+  verbunden ist. Sie **erweckt** das Vestige (Dormant→Awakened), als er es findet, und
+  „erkennt" Caspian als würdigen Träger. (→ s. `epische-belohnungen.md`.)
+- **Warum gerade Caspian?** Sein Wesen — *das Faszinierende über das Gold, Wahrheit &
+  Wunder über Macht* — ist der exakte **Gegenpol zum Kult** (Macht über Wahrheit). Genau
+  deshalb erwacht ein Vestige des **Lichts/der Wahrheit** für ihn und nicht für Asch.
+- **Neugier als Motor:** Sein Makel zieht ihn glaubhaft in jede Tür, jedes Rätsel, jede
+  Tiefe — perfekt, um ohne Schieben in den Dungeon zu kommen.
+- **Persönliche Bindung (Akt-I-Gegenschlag, Stufe 3):** Kandidaten: ein Dorf-NSC, den
+  Caspian liebgewinnt (Tomsin/Marisha) **oder** eine neue Spur zu Aldebran, die der Kult
+  bedroht/ausnutzt. Final wählen, sobald die Gefährten gecastet sind.
+
+## 8b. Gefährten-Casting (Solo + echte Mitspieler-NSCs)
+Björn will 1–3 Gefährten mit **eigenen Zielen & Meinungen**, prominent gespielt. Plan:
+je ein eigenes Charakterblatt in `charaktere/` + geheime Motivation hier/`npcs/_geheim`.
+Thematisch andocken (mind. einer mit eigenem Bezug zu Erinnerung/Wissen/dem Kult, einer
+als Kontrast/Comic-Herz). Erstes Casting früh in Session 1 (z. B. Mitreisende/Dorf).
+Kandidaten-Ideen: eine ernsthafte Ermittlerin/Ex-Wache, ein gläubiger Heiler der
+Wildmutter, ein zwielichtiger Glücksritter aus Kymal. → eigene Datei anlegen.
 
 ## 9. Offene DM-To-dos
 - [ ] Vestige final an Klasse anpassen (s. `epische-belohnungen.md`).

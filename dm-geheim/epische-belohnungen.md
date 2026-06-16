@@ -12,10 +12,15 @@ gefallen beim Versiegeln der Flüsterkammer. Thematik: **Wahrheit & Licht gegen
 Geheimnis & Vergessen** — der direkte Gegenpol zu Vecna. Genau deshalb ist es der
 Schlüssel, der das Eidolon am Ende **bannt** statt befreit.
 
-### Form (nach Session 0 an Klasse anpassen — eine Variante wählen)
-- **Martial-Variante — Klinge/Waffe „Morgenruf":** Vestige-Waffe.
-- **Caster-Variante — Fokus „Das Klare Auge" (Stab/Orb/Amulett):** Zauberfokus-Vestige.
-- **Defensiv-Variante — „Mantel/Plattenrest der Lichtträgerin":** Rüstung/Umhang/Schild.
+### Form — **festgelegt für Caspian (Barde, CHA-Caster)**
+**Caster-Fokus-Variante: „Klarlicht" (Veyras Vermächtnis).** Ein bardentauglicher
+**Zauberfokus** in Gestalt einer kleinen Lichtquelle/eines Klang-Objekts (passt zur
+Spieluhr-Thematik). Charisma-skaliert, an Caspian gebunden (attunement).
+
+> **Spieluhr-Verknüpfung (Kern-Twist):** Caspians **namenlose Spieluhr** spielt
+> **Veyras letztes Lied** — den Resonanz-Schlüssel zum schlafenden Vestige. Beim Fund
+> (Akt I) erkennt das Vestige die Melodie und Caspian als Träger → **Dormant erwacht**.
+> Option für Exalted: Spieluhr & Fokus **verschmelzen** zu einem Objekt (emotional + cool).
 
 > Mechanik immer in 2024-Begriffen halten. Werte unten sind **Designrahmen**, final
 > nach Charakterklasse balancen (ungefähr: Dormant ≈ +1-Item-Niveau / kleine Nische;
@@ -52,10 +57,14 @@ Schlüssel, der das Eidolon am Ende **bannt** statt befreit.
   (Story-mechanischer Höhepunkt, kein dauerhafter „I-win"-Knopf danach).
 
 ### Erweckungs-Trigger (NICHT Würfel, sondern Taten — Mercer-Stil)
-- **Awakened:** eine selbstlose, wahrhaftige Tat in Akt II (zu definieren, sobald
-  Charakter & Werte stehen). Beispiel-Trigger eintragen: ____
-- **Exalted:** die finale Entscheidung am Vault (Wahrheit über Bequemlichkeit;
-  Erinnerung über Auslöschung). Beispiel-Trigger eintragen: ____
+- **Dormant→aktiv:** Fund des Vestige in den oberen Ruinen (Akt I), die Spieluhr-Melodie
+  „weckt" es. Caspian spürt: dieses Ding hat eine Geschichte — und sie ist auch seine.
+- **Awakened (Akt II):** eine selbstlose, **wahrhaftige** Tat — z. B. einem „Vergessenen"
+  trotz Gefahr seinen Namen/seine Geschichte zurückgeben, oder eine bequeme Lüge
+  zugunsten einer harten Wahrheit fallenlassen. Passt zu Caspians Ideal.
+- **Exalted (Finale, Stufe 7):** die Entscheidung am Vault — **Erinnerung über
+  Auslöschung, Wahrheit über Macht.** Z. B. der Versuchung widerstehen, das Eidolon
+  selbst zu nutzen (Aldebran zurückzubekommen?), und es stattdessen bannen.
 
 ---
 
