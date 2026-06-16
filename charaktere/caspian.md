@@ -27,7 +27,7 @@
 - **Armor Class (AC):** 13 (Leather Armor + DEX)
 - **Initiative:** +2
 - **Speed:** 30 ft (9 m)
-- **Hit Points:** 9 / 9 · **Temp HP:** —
+- **Hit Points:** 8 / 9 *(nach Session 1)* · **Temp HP:** —
 - **Hit Dice:** 1×d8
 - **Passive Perception:** 12
 - **Death Saves:** ☐☐☐ / ☐☐☐
@@ -96,7 +96,8 @@ Hund, nicht wie ein beschworener Geist. Kann als Späher dienen und die **Help**
 - **Getragen:** Leather Armor, 2× Dagger, Light Crossbow (20 Bolts)
 - **Tools:** Thieves' Tools, Reise-Laute (Spellcasting Focus)
 - **Gepäck:** Entertainer's/Explorer's Pack, Reisekleidung, Schlafrolle, Zunderkasten, Beutel
-- **Besonderes:** 🎶 **Die namenlose Spieluhr** (stets handwarm; spielt bisweilen von selbst eine Melodie, die niemand kennt) — Andenken an Meister Aldebran
+- **Besonderes:** 🎶 **Die namenlose Spieluhr** (stets handwarm; spielt bisweilen von selbst eine Melodie, die niemand kennt) — Andenken an Meister Aldebran. *Entdeckt in Session 1: Die Melodie drängt das „Vergessen" kurzzeitig zurück.*
+- **Andenken:** 🐓 Zinn-Wetterhahn (Geschenk von Pellam, „zeigt immer nach Hause") · 🔴 rotes Band an Krümels Halsband
 - **Geld:** ~20 GP *(Startgold final beim Einkauf)*
 
 ## Persönlichkeit
@@ -115,5 +116,6 @@ geschah — getrieben von Liebe, von Neugier und von einer Melodie, die ihn nich
 
 ## Level-Up Log
 - **Level 1** (2026-06-16): Charakter erstellt. Start des Abenteuers steht bevor.
+- **Session 1** (2026-06-16): Ankunft in Aschenfurt; Pellam aus dem „Vergessen" gerettet; Marisha Vell als Verbündete gewonnen; erster Kampf überlebt (fiel auf 0 HP, von Marisha geheilt). Entdeckung: die Spieluhr-Melodie bricht das Vergessen. *(Heroic Inspiration & beide Luck Points verbraucht — kehren nach Long Rest zurück. Spell Slots 2/2 unverbraucht, Bardic Inspiration 3/3.)*
 - *Level 2 (geplant):* Jack of All Trades, Expertise (2 Skills), Bardic Inspiration bleibt d6.
 - *Level 3 (geplant):* College of Lore (**Cutting Words**, **Bonus Proficiencies**: 3 weitere Skills).
