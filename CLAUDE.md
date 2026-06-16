@@ -94,3 +94,5 @@ Die 2014er-Regeln („5e classic") sind in dieser Kampagne **ungültig**.
   `kampagne/session-0-charaktererstellung.md` notiert). „X-Card" jederzeit gültig:
   sagt Björn „X" / „Schnitt" / „lass uns das überspringen", wird die Szene sofort
   abgeblendet, ohne Nachfrage.
+- **Aktive LINE (Stand Session 0):** **Kinder in Gefahr / Schaden an Kindern** kommt
+  NICHT vor (höchstens sehr dezent angedeutet, nie gezeigt). Beim Szenenbau beachten.

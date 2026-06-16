@@ -117,7 +117,9 @@ ein **Memory-Devourer** (reskin Intellect Devourer/Mindwitness), Spektral-Echos.
 - **Wirt **Boggin Tunk**** (Halbork) — Comic-Relief, gutes Herz, schlechtes Gedächtnis
   (subtiler Frühindikator des Vergessens → später bittersüß).
 - **Heilerin **Marisha Vell**** — besorgt, kompetent, erste Verbündete bei der Ermittlung.
-- **Kind **Tomsin**** — Elternteil verschwunden; emotionaler Anker.
+- **Tomsin** — junger Erwachsener (statt Kind, s. Safety-Line!), dessen Elternteil
+  verschwunden ist; emotionaler Anker. **SAFETY:** Kinder werden nie in Gefahr gebracht/
+  verletzt — falls Kinder auftauchen, bleiben sie unbehelligt (max. dezent angedeutete Sorge).
 - **Wachhauptmann **Doral**** — misstrauisch zuerst, dann loyal.
 - **Mentorin: Schwester **Ennoia Vane**** — Eremitin & Devotee der **Wissenden Herrin**,
   weiß von Vestiges und dem versiegelten Übel; hilft, das Relikt zu verstehen/erwecken.

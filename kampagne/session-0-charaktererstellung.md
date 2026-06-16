@@ -11,8 +11,9 @@
 - [ ] **Session-Rhythmus & -Länge:** locker, keine Eile (Details nach Bedarf).
 
 ## B. Sicherheit & Ton
-- [ ] **Lines** (kommt NICHT vor): _noch offen — beim Session-0-Abschluss klären_
-- [ ] **Veils** (nur angedeutet): _noch offen_
+- [x] **Lines** (kommt NICHT vor): **Kinder in Gefahr / Schaden an Kindern** → ausklammern
+      (allenfalls sehr dezent angedeutet, nie gezeigt).
+- [x] **Veils** (nur angedeutet): bei Bedarf jederzeit ergänzbar.
 - [x] **X-Card / Schnitt-Wort:** „Schnitt" / „X" → Szene sofort ab, ohne Nachfrage.
 - [x] **Ton:** episch & humorvoll (Mercer-Schule), warm trotz Gefahr.
 
@@ -36,7 +37,8 @@
 > Konkrete Plot-Verknüpfungen → nur DM, in `dm-geheim/`.
 
 ## E. Offene Punkte / nächste Schritte
-- [ ] Lines & Veils final festhalten (B).
-- [ ] Namen bestätigen (oder ändern).
-- [ ] Sprachen & Performance-Instrument final wählen (Kosmetik).
+- [x] Lines & Veils festgehalten (B): Kinder in Gefahr = Line.
+- [x] Name bestätigt: **Caspian**.
+- [ ] Sprachen & Performance-Instrument final wählen (Kosmetik, jederzeit).
+- [ ] Letzte offene Fragen von Björn klären (er möchte vor Start noch etwas besprechen).
 - [ ] **Session 1 starten:** der Weg nach Osten beginnt.
