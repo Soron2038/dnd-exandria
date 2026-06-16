@@ -87,7 +87,7 @@
 
 > *Identify* passt wie angegossen zum Sammler: enthüllt die magischen Eigenschaften eines Fundstücks.
 
-### Familiar 🐕 — junger Labrador-Welpe (Name: t.b.d.)
+### Familiar 🐕 — „Krümel", junger Labrador-Welpe
 DM-Reskin: läuft mechanisch über den **Cat-Statblock** (Tiny, **Speed 40 ft**, **Keen Smell** =
 Advantage auf Perception per Geruch). Freundlich, unscheinbar — sieht aus wie ein ganz normaler
 Hund, nicht wie ein beschworener Geist. Kann als Späher dienen und die **Help**-Action geben.
