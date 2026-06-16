@@ -4,13 +4,13 @@
 > **Keine Spoiler** — nur, was der Charakter/Spieler bereits weiß.
 
 - **Regelwerk:** D&D 2024 (5.5e) ✔
-- **Letztes Update:** 2026-06-16 (Session 1 — Nacht in Aschenfurt)
+- **Letztes Update:** 2026-06-16 (Ende Session 1 — Morgen nach der Nacht in Aschenfurt)
 - **Aktuelle Stufe:** 1
-- **Aktueller Ort (im Spiel):** Aschenfurt, im Haus der Heilerin Marisha Vell (tiefe Nacht)
-- **Datum (im Spiel):** 5. Cuersaar (Herbst)
+- **Aktueller Ort (im Spiel):** Aschenfurt, Haus von Marisha Vell — **bereit zum Aufbruch zum Hügel**
+- **Datum (im Spiel):** 6. Cuersaar (Morgen)
 
 ## Party
-- **Caspian „Cas"** — Mensch, Barde 1 (Wayfarer). Neugieriger Wundersammler & Langfinger. 8/9 HP.
+- **Caspian „Cas"** — Mensch, Barde 1 (Wayfarer). Neugieriger Wundersammler & Langfinger. 9/9 HP (ausgeruht).
 - **Krümel** 🐕 — Caspians Familiar (junger Labrador-Welpe).
 - **Gefährten:** noch keine festen Mitreisenden — Marisha Vell ist eine Verbündete vor Ort.
 

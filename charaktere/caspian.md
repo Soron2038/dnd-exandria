@@ -11,7 +11,7 @@
 - **Background:** Wayfarer
 - **Alignment:** Chaotic Good (gutes Herz, eigene Regeln)
 - **Proficiency Bonus:** +2
-- **Heroic Inspiration:** ☐  *(als Human: nach jeder Long Rest automatisch eine!)*
+- **Heroic Inspiration:** ☑ 1  *(als Human: nach jeder Long Rest automatisch eine!)*
 
 ## Attributes & Saving Throws
 | Ability | Score | Mod | Save | proficient |
@@ -27,7 +27,7 @@
 - **Armor Class (AC):** 13 (Leather Armor + DEX)
 - **Initiative:** +2
 - **Speed:** 30 ft (9 m)
-- **Hit Points:** 8 / 9 *(nach Session 1)* · **Temp HP:** —
+- **Hit Points:** 9 / 9 *(nach Long Rest in Aschenfurt)* · **Temp HP:** —
 - **Hit Dice:** 1×d8
 - **Passive Perception:** 12
 - **Death Saves:** ☐☐☐ / ☐☐☐
@@ -116,6 +116,7 @@ geschah — getrieben von Liebe, von Neugier und von einer Melodie, die ihn nich
 
 ## Level-Up Log
 - **Level 1** (2026-06-16): Charakter erstellt. Start des Abenteuers steht bevor.
-- **Session 1** (2026-06-16): Ankunft in Aschenfurt; Pellam aus dem „Vergessen" gerettet; Marisha Vell als Verbündete gewonnen; erster Kampf überlebt (fiel auf 0 HP, von Marisha geheilt). Entdeckung: die Spieluhr-Melodie bricht das Vergessen. *(Heroic Inspiration & beide Luck Points verbraucht — kehren nach Long Rest zurück. Spell Slots 2/2 unverbraucht, Bardic Inspiration 3/3.)*
+- **Session 1** (2026-06-16): Ankunft in Aschenfurt; Pellam aus dem „Vergessen" gerettet; Marisha Vell als Verbündete gewonnen; erster Kampf überlebt (fiel auf 0 HP, von Marisha geheilt). Entdeckung: die Spieluhr-Melodie bricht das Vergessen. *(Heroic Inspiration & beide Luck Points im Kampf verbraucht; nach der Long Rest in Aschenfurt wieder voll: Heroic Inspiration 1, Luck 2/2, Spell Slots 2/2, Bardic Inspiration 3/3.)*
+- *Nächste Session:* Aufbruch zum Hügel / zur Steinbruch-Senke bei Tageslicht.
 - *Level 2 (geplant):* Jack of All Trades, Expertise (2 Skills), Bardic Inspiration bleibt d6.
 - *Level 3 (geplant):* College of Lore (**Cutting Words**, **Bonus Proficiencies**: 3 weitere Skills).
