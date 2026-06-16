@@ -39,11 +39,10 @@
 - **Perception** +2 *(WIS — Bard)*
 - **Performance** +5 *(CHA — Bard)*
 - **Persuasion** +5 *(CHA — Bard)*
-- **Sleight of Hand** +4 *(DEX — Human „Skillful")* ⚠️ *vorläufig — siehe Hinweis*
+- **Sleight of Hand** +4 *(DEX — Human „Skillful")*
 
-> ⚠️ **Hinweis:** Wayfarer liefert **Stealth + Insight** bereits fix. Der freie Human-Skill
-> („Skillful") kann daher NICHT noch einmal Stealth sein — ich habe ihn vorläufig auf
-> **Sleight of Hand** gelegt (passt zum langfingrigen Wundersammler). Ein Wort genügt zum Tauschen.
+> **Hinweis:** Wayfarer liefert **Stealth + Insight** fix; der freie Human-Skill („Skillful")
+> ging daher an **Sleight of Hand** (passt zum langfingrigen Wundersammler).
 
 *(Ab Level 2: **Jack of All Trades** = halber PB auf alle Ability Checks ohne Proficiency;
 **Expertise** auf 2 Skills — Empfehlung: Persuasion + Performance.)*
@@ -70,7 +69,7 @@
 
 ## Species Traits (Human)
 - **Resourceful:** Heroic Inspiration nach jeder Long Rest.
-- **Skillful:** ein zusätzlicher Skill (= Sleight of Hand, vorläufig).
+- **Skillful:** ein zusätzlicher Skill (= Sleight of Hand).
 - **Versatile:** ein zusätzliches Origin Feat (= Magic Initiate).
 
 ## Spells & Magic
