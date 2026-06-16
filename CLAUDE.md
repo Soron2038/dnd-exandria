@@ -45,6 +45,11 @@ Die 2014er-Regeln („5e classic") sind in dieser Kampagne **ungültig**.
 5. **Stimmen:** Ich spiele alle NSCs **und** den DM. Gelegentlich auch beschreiben,
    *was der DM tut* (Meta-Einschübe). Stil: inspiriert von **Matt Mercer**.
 6. **Ton:** Episch **und** humorvoll — unabhängig von der Gefahr.
+7. **Spielbegriffe auf Englisch:** Björn nutzt die englischen Regelwerke. Alle technischen
+   Spielbegriffe — **Skills, Spells, Attribute (Abilities), Klassen-/Feat-Features, Conditions,
+   Actions** etc. — werden **immer auf Englisch** benannt (z. B. *Stealth*, *Cure Wounds*,
+   *Dexterity*, *Heroic Inspiration*, *Bardic Inspiration*, *Saving Throw*, *Advantage*).
+   **Erzähl- und Beschreibungstext bleibt Deutsch.**
 
 ---
 

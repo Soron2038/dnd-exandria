@@ -1,79 +1,99 @@
 # Charakterblatt — Caspian „Cas" (Arbeitsname)
 
 > Regelwerk: **D&D 2024 (5.5e)**. Spieler: Björn.
+> Technische Spielbegriffe (Skills, Spells, Abilities, Features) auf **Englisch** — Tisch-Vereinbarung.
 > *Name jederzeit änderbar — einfach sagen.*
 
 ## Kopf
 - **Name:** Caspian „Cas"
-- **Spezies:** Mensch
-- **Klasse & Stufe:** Barde 1  *(Kollegium des Wissens ab Stufe 3 geplant)*
-- **Hintergrund:** Wayfarer (Wanderer)
-- **Gesinnung:** Chaotisch Gutmütig (gutes Herz, eigene Regeln)
-- **Übungsbonus:** +2
-- **Heroische Inspiration:** ☐  *(als Mensch: nach jeder langen Rast automatisch eine!)*
+- **Species:** Human
+- **Class & Level:** Bard 1  *(College of Lore ab Level 3 geplant)*
+- **Background:** Wayfarer
+- **Alignment:** Chaotic Good (gutes Herz, eigene Regeln)
+- **Proficiency Bonus:** +2
+- **Heroic Inspiration:** ☐  *(als Human: nach jeder Long Rest automatisch eine!)*
 
-## Attribute & Rettungswürfe
-| Attribut | Wert | Mod | RW | geübt |
+## Attributes & Saving Throws
+| Ability | Score | Mod | Save | proficient |
 |---|---|---|---|---|
-| Stärke (STR) | 9 | −1 | −1 | ☐ |
-| Geschicklichkeit (GES) | 15 | +2 | **+4** | ☑ |
-| Konstitution (KON) | 12 | +1 | +1 | ☐ |
-| Intelligenz (INT) | 11 | 0 | 0 | ☐ |
-| Weisheit (WEI) | 11 | 0 | 0 | ☐ |
+| Strength (STR) | 9 | −1 | −1 | ☐ |
+| Dexterity (DEX) | 15 | +2 | **+4** | ☑ |
+| Constitution (CON) | 12 | +1 | +1 | ☐ |
+| Intelligence (INT) | 11 | 0 | 0 | ☐ |
+| Wisdom (WIS) | 11 | 0 | 0 | ☐ |
 | Charisma (CHA) | **17** | **+3** | **+5** | ☑ |
 
-## Kampfwerte
-- **Rüstungsklasse:** 13 (Lederrüstung + GES)
+## Combat
+- **Armor Class (AC):** 13 (Leather Armor + DEX)
 - **Initiative:** +2
-- **Tempo:** 9 m (30 ft)
-- **Trefferpunkte:** 9 / 9 · **temporär:** —
-- **Trefferwürfel:** 1×W8
-- **Passive Wahrnehmung:** 12
-- **Rettungswürfe gg. Tod:** ☐☐☐ / ☐☐☐
+- **Speed:** 30 ft (9 m)
+- **Hit Points:** 9 / 9 · **Temp HP:** —
+- **Hit Dice:** 1×d8
+- **Passive Perception:** 12
+- **Death Saves:** ☐☐☐ / ☐☐☐
 
-## Fertigkeiten
-**Geübt (+2 ÜB):** Heimlichkeit **+4** · Fingerfertigkeit **+4** · Überzeugen **+5** ·
-Wahrnehmung **+2** · Einsicht **+2** · Ermittlung **+2**
-*(Ab Stufe 2: **Tausendsassa** = halber ÜB auf alle ungeübten Proben; **Expertise** auf 2 Fertigkeiten.)*
+## Skills
+**Proficient (+2 PB):**
+- **Stealth** +4 *(DEX — Wayfarer)*
+- **Insight** +2 *(WIS — Wayfarer)*
+- **Perception** +2 *(WIS — Bard)*
+- **Performance** +5 *(CHA — Bard)*
+- **Persuasion** +5 *(CHA — Bard)*
+- **Sleight of Hand** +4 *(DEX — Human „Skillful")* ⚠️ *vorläufig — siehe Hinweis*
 
-## Übungen & Sprachen
-- **Rüstung/Waffen:** Leichte Rüstung · Einfache Waffen, Hand­armbrust, Langschwert, Rapier, Kurzschwert
-- **Werkzeuge:** Diebeswerkzeug · 3 Musikinstrumente (z. B. Reise-Laute)
-- **Sprachen:** Gemeinsprache + 2 weitere (z. B. Elfisch, Draconisch — frei wählbar)
+> ⚠️ **Hinweis:** Wayfarer liefert **Stealth + Insight** bereits fix. Der freie Human-Skill
+> („Skillful") kann daher NICHT noch einmal Stealth sein — ich habe ihn vorläufig auf
+> **Sleight of Hand** gelegt (passt zum langfingrigen Wundersammler). Ein Wort genügt zum Tauschen.
 
-## Waffen
-| Waffe | Angriff | Schaden | Eigenschaften |
+*(Ab Level 2: **Jack of All Trades** = halber PB auf alle Ability Checks ohne Proficiency;
+**Expertise** auf 2 Skills — Empfehlung: Persuasion + Performance.)*
+
+## Proficiencies & Languages
+- **Armor:** Light Armor
+- **Weapons:** Simple Weapons *(keine Martial Weapons; Bards haben kein Weapon Mastery)*
+- **Tools:** Thieves' Tools · 3 Musical Instruments (z. B. Reise-Laute)
+- **Languages:** Common + 2 weitere (z. B. Elvish, Draconic — frei wählbar)
+
+## Weapons
+| Weapon | Attack | Damage | Properties |
 |---|---|---|---|
-| Rapier | +4 | 1W8+2 stich | Finesse *(keine Meisterschaft — Barde)* |
-| Dolch | +4 | 1W4+2 stich | Finesse, leicht, wurf (6/18 m) |
+| Dagger | +4 | 1d4+2 piercing | Finesse, Light, Thrown (20/60 ft) |
+| Light Crossbow | +4 | 1d8+2 piercing | Ammunition, Loading, Two-Handed, Range 80/320 ft |
 
-## Talente
-- **Glückspilz (Lucky):** 2 Glückspunkte (= ÜB) pro langer Rast — Vorteil erzwingen / Angriffe gg. dich sabotieren.
-- **Magiebegabt — Magier (Magic Initiate):** s. Zauber. *(Zauberattribut dieser Sprüche: INT — bewusst so gewählt, dass der Wert egal ist.)*
+> Bevorzugter Distanz-Angriff ist ohnehin der Cantrip **Starry Wisp** (Spell Attack +5, 1d8 radiant).
 
-## Spezies-Merkmale (Mensch)
-- **Einfallsreich:** Heroische Inspiration nach jeder langen Rast.
-- **Geschickt:** zusätzliche Fertigkeit (= Wahrnehmung).
-- **Vielseitig:** zusätzliches Herkunftstalent (= Magiebegabt).
+## Feats
+- **Lucky** *(via Wayfarer):* Luck Points = PB pro Long Rest — Advantage erzwingen / einen Angriff
+  gegen dich mit Disadvantage belegen.
+- **Magic Initiate (Wizard)** *(via Human „Versatile"):* Spells s. u. *(Keiner der drei Spells nutzt
+  Attack Roll oder Save DC → das gewählte Spellcasting Ability ist hier irrelevant.)*
 
-## Zauber & Magie
-- **Barden-Zaubern (Charisma):** Zauber-SG **13** · Zauberangriff **+5**
-- **Bardische Inspiration:** W6, **3×/lange Rast** (Bonusaktion; Verbündeten geben)
-- **Zauberplätze Grad 1:** 2
+## Species Traits (Human)
+- **Resourceful:** Heroic Inspiration nach jeder Long Rest.
+- **Skillful:** ein zusätzlicher Skill (= Sleight of Hand, vorläufig).
+- **Versatile:** ein zusätzliches Origin Feat (= Magic Initiate).
 
-**Zaubertricks (Barde):** Verhöhnung (*Vicious Mockery*), Geringes Trugbild (*Minor Illusion*)
-**Vorbereitete Zauber Grad 1 (Barde):** Stilles Bild · Selbstverkleidung · Tashas grausiges Gelächter · Heilendes Wort
+## Spells & Magic
+- **Spellcasting (Bard, Charisma):** Spell Save DC **13** · Spell Attack **+5**
+- **Bardic Inspiration:** d6, **3×/Long Rest** (Bonus Action; an Verbündete)
+- **Spell Slots (1st):** 2
 
-**Magiebegabt (Magier-Liste):**
-- Zaubertricks: Magierhand (*Mage Hand*), Blendwerk (*Prestidigitation*)
-- Grad-1-Zauber: **Vertrauten herbeirufen** (Ritual; 1×/lange Rast gratis + über Plätze) 🦉
+**Cantrips:**
+- *Bard:* **Minor Illusion**, **Starry Wisp**
+- *Magic Initiate (Wizard):* **Mage Hand**, **Prestidigitation**
+
+**1st-Level Spells:**
+- *Bard (prepared, 4):* **Cure Wounds** · **Disguise Self** · **Identify** · **Silent Image**
+- *Magic Initiate (Wizard):* **Find Familiar** 🦉 *(1×/Long Rest gratis + über Spell Slots)*
+
+> *Identify* passt wie angegossen zum Sammler: enthüllt die magischen Eigenschaften eines Fundstücks.
 
 ## Ausrüstung & Vermögen
-- **Getragen:** Lederrüstung, Rapier, 2 Dolche
-- **Werkzeug:** Diebeswerkzeug, Reise-Laute (Zauberfokus)
-- **Gepäck:** Entertainer-/Reisepack, Reisekleidung, Schlafrolle, Zunderkasten, Beutel
+- **Getragen:** Leather Armor, 2× Dagger, Light Crossbow (20 Bolts)
+- **Tools:** Thieves' Tools, Reise-Laute (Spellcasting Focus)
+- **Gepäck:** Entertainer's/Explorer's Pack, Reisekleidung, Schlafrolle, Zunderkasten, Beutel
 - **Besonderes:** 🎶 **Die namenlose Spieluhr** (stets handwarm; spielt bisweilen von selbst eine Melodie, die niemand kennt) — Andenken an Meister Aldebran
-- **Geld:** ~20 GM *(Startgold final beim Einkauf)*
+- **Geld:** ~20 GP *(Startgold final beim Einkauf)*
 
 ## Persönlichkeit
 - **Wesenszug:** Begegnet allem mit staunenden Augen; redet mit Gegenständen, als hätten sie Geschichten.
@@ -89,7 +109,7 @@ ist nur eine namenlose, stets warme Spieluhr. Caspian zog los, um herauszufinden
 geschah — getrieben von Liebe, von Neugier und von einer Melodie, die ihn nicht loslässt.
 *(Persönliche Plot-Verknüpfungen: nur DM, in `dm-geheim/`.)*
 
-## Aufstiegs-Log
-- **Stufe 1** (2026-06-16): Charakter erstellt. Start des Abenteuers steht bevor.
-- *Stufe 2 (geplant):* Tausendsassa, Expertise (2 Fertigkeiten), Bardische Inspiration bleibt W6.
-- *Stufe 3 (geplant):* Kollegium des Wissens (Schneidende Worte!), weitere Fertigkeiten.
+## Level-Up Log
+- **Level 1** (2026-06-16): Charakter erstellt. Start des Abenteuers steht bevor.
+- *Level 2 (geplant):* Jack of All Trades, Expertise (2 Skills), Bardic Inspiration bleibt d6.
+- *Level 3 (geplant):* College of Lore (**Cutting Words**, **Bonus Proficiencies**: 3 weitere Skills).
