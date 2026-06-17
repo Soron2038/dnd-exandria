@@ -7,7 +7,7 @@
 ## Kopf
 - **Name:** Caspian „Cas"
 - **Species:** Human
-- **Class & Level:** Bard 1  *(College of Lore ab Level 3 geplant)*
+- **Class & Level:** Bard 2  *(College of Lore ab Level 3 geplant)*
 - **Background:** Wayfarer
 - **Alignment:** Chaotic Good (gutes Herz, eigene Regeln)
 - **Proficiency Bonus:** +2
@@ -25,27 +25,28 @@
 
 ## Combat
 - **Armor Class (AC):** 13 (Leather Armor + DEX)
-- **Initiative:** +2
+- **Initiative:** +3 *(DEX +2, inkl. Jack of All Trades +1)*
 - **Speed:** 30 ft (9 m)
-- **Hit Points:** 9 / 9 *(unverletzt aus den oberen Ruinen heimgekehrt)* · **Temp HP:** —
-- **Hit Dice:** 1×d8
-- **Passive Perception:** 12
+- **Hit Points:** 15 / 15 *(Stufe 2: +6 fest)* · **Temp HP:** —
+- **Hit Dice:** 2×d8
+- **Passive Perception:** 14 *(Perception mit Expertise)*
 - **Death Saves:** ☐☐☐ / ☐☐☐
 
 ## Skills
 **Proficient (+2 PB):**
 - **Stealth** +4 *(DEX — Wayfarer)*
 - **Insight** +2 *(WIS — Wayfarer)*
-- **Perception** +2 *(WIS — Bard)*
-- **Performance** +5 *(CHA — Bard)*
+- **Perception** **+4** *(WIS — Bard) · ⭐ **EXPERTISE** (2× PB)*
+- **Performance** **+7** *(CHA — Bard) · ⭐ **EXPERTISE** (2× PB)*
 - **Persuasion** +5 *(CHA — Bard)*
 - **Sleight of Hand** +4 *(DEX — Human „Skillful")*
+
+> **Jack of All Trades (Stufe 2):** +1 (halber PB, abgerundet) auf **alle Ability Checks ohne Proficiency** — auch Initiative.
 
 > **Hinweis:** Wayfarer liefert **Stealth + Insight** fix; der freie Human-Skill („Skillful")
 > ging daher an **Sleight of Hand** (passt zum langfingrigen Wundersammler).
 
-*(Ab Level 2: **Jack of All Trades** = halber PB auf alle Ability Checks ohne Proficiency;
-**Expertise** auf 2 Skills — Empfehlung: Persuasion + Performance.)*
+*(Stufe 2 angewandt: **Jack of All Trades** aktiv; **Expertise** auf **Performance** & **Perception** gewählt.)*
 
 ## Proficiencies & Languages
 - **Armor:** Light Armor
@@ -75,17 +76,18 @@
 ## Spells & Magic
 - **Spellcasting (Bard, Charisma):** Spell Save DC **13** · Spell Attack **+5**
 - **Bardic Inspiration:** d6, **3×/Long Rest** (Bonus Action; an Verbündete)
-- **Spell Slots (1st):** 2
+- **Spell Slots (1st):** **3**  *(aktuell vor Rast: **2/3** verfügbar — 1 in Session 2 für Disguise Self verbraucht; nach Long Rest 3/3)*
 
 **Cantrips:**
 - *Bard:* **Minor Illusion**, **Starry Wisp**
 - *Magic Initiate (Wizard):* **Mage Hand**, **Prestidigitation**
 
 **1st-Level Spells:**
-- *Bard (prepared, 4):* **Cure Wounds** · **Disguise Self** · **Identify** · **Silent Image**
+- *Bard (prepared, 5):* **Cure Wounds** *(2024: 2d8+3)* · **Disguise Self** · **Identify** · **Silent Image** · **Heroism** *(neu, Stufe 2)*
 - *Magic Initiate (Wizard):* **Find Familiar** 🐕 *(1×/Long Rest gratis + über Spell Slots)*
 
 > *Identify* passt wie angegossen zum Sammler: enthüllt die magischen Eigenschaften eines Fundstücks.
+> *Heroism* (2024): Touch, Concentration bis 1 Min — Ziel ist **immun gegen Frightened** und erhält zu Beginn jedes Zuges **Temp HP = CHA-Mod (3)**. Stark gegen Furcht-/Flüster-Magie und für mehr Stehvermögen.
 
 ### Familiar 🐕 — „Krümel", junger Labrador-Welpe
 DM-Reskin: läuft mechanisch über den **Cat-Statblock** (Tiny, **Speed 40 ft**, **Keen Smell** =
@@ -119,7 +121,7 @@ geschah — getrieben von Liebe, von Neugier und von einer Melodie, die ihn nich
 ## Level-Up Log
 - **Level 1** (2026-06-16): Charakter erstellt. Start des Abenteuers steht bevor.
 - **Session 1** (2026-06-16): Ankunft in Aschenfurt; Pellam aus dem „Vergessen" gerettet; Marisha Vell als Verbündete gewonnen; erster Kampf überlebt (fiel auf 0 HP, von Marisha geheilt). Entdeckung: die Spieluhr-Melodie bricht das Vergessen. *(Heroic Inspiration & beide Luck Points im Kampf verbraucht; nach der Long Rest in Aschenfurt wieder voll: Heroic Inspiration 1, Luck 2/2, Spell Slots 2/2, Bardic Inspiration 3/3.)*
-- **Session 2** (2026-06-17): Vorstoß in die **oberen Ruinen** der versunkenen Bibliothek; Tobb gerettet & Hinweis erhalten; per **Disguise Self** infiltriert; flüsternden Kultisten verwundet (floh in die Tiefe); erwachende **Wächtergestalt** in Brand gesetzt; **sechs versklavte Dorfbewohner befreit** und herausgeführt — unverletzt. *(Verbraucht & noch nicht gerastet: Heroic Inspiration 0, Luck 1/2, Spell Slots 1/2, Bardic Inspiration 3/3.)* → **Meilenstein für Stufe 2 erreicht.**
-- ⭐ **Level-Up auf Stufe 2 steht aus** — wird zu Beginn von Session 3 gemeinsam mit Björn durchgeführt (Jack of All Trades; Expertise auf 2 Skills — Empfehlung Persuasion + Performance; +1 Spell Slot 1st; ggf. neuer prepared Spell).
-- *Nächste Session:* Level-Up; die Befreiten zurück nach Aschenfurt; nächsten Abstieg planen.
+- **Session 2** (2026-06-17): Vorstoß in die **oberen Ruinen** der versunkenen Bibliothek; Tobb gerettet & Hinweis erhalten; per **Disguise Self** infiltriert; flüsternden Kultisten verwundet (floh in die Tiefe); erwachende **Wächtergestalt** in Brand gesetzt; **sechs versklavte Dorfbewohner befreit** und herausgeführt — unverletzt. *(Verbraucht & noch nicht gerastet: Heroic Inspiration 0, Luck 1/2, Spell Slots 1 von 2 alt, Bardic Inspiration 3/3.)* → **Meilenstein für Stufe 2 erreicht.**
+- **Level 2** (2026-06-17, mit Björn): **HP +6 → 15** (fester Wert); **Jack of All Trades** (u. a. Initiative +3); **Expertise** auf **Performance (+7)** & **Perception (+4)** → Passive Perception 14; **Spell Slots 1st: 3**; neuer prepared Spell **Heroism**. *(Bardic Inspiration bleibt d6; PB bleibt +2.)*
+- *Nächste Session:* die Befreiten zurück nach Aschenfurt; nächsten Abstieg in die Bibliothek planen.
 - *Level 3 (geplant):* College of Lore (**Cutting Words**, **Bonus Proficiencies**: 3 weitere Skills).

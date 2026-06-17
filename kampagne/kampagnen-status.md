@@ -4,13 +4,13 @@
 > **Keine Spoiler** — nur, was der Charakter/Spieler bereits weiß.
 
 - **Regelwerk:** D&D 2024 (5.5e) ✔
-- **Letztes Update:** 2026-06-17 (Ende Session 2 — Rückkehr aus den oberen Ruinen)
-- **Aktuelle Stufe:** 1 — **Meilenstein für Stufe 2 erreicht** (Level-Up zu Beginn Session 3)
+- **Letztes Update:** 2026-06-17 (Ende Session 2 — Rückkehr aus den oberen Ruinen · **Level-Up auf Stufe 2**)
+- **Aktuelle Stufe:** 2
 - **Aktueller Ort (im Spiel):** Rand der Steinbruch-Senke, mit sechs Befreiten — im Aufbruch zurück nach Aschenfurt
 - **Datum (im Spiel):** 6. Cuersaar (Vormittag)
 
 ## Party
-- **Caspian „Cas"** — Mensch, Barde 1 (Wayfarer). 9/9 HP (unverletzt). *Aktuell vor der nächsten Rast: Heroic Inspiration 0, Luck 1/2, Spell Slots 1/2, Bardic Inspiration 3/3.*
+- **Caspian „Cas"** — Mensch, Barde **2** (Wayfarer). **15/15 HP**. *Aktuell vor der nächsten Rast: Heroic Inspiration 0, Luck 1/2, Spell Slots 2/3, Bardic Inspiration 3/3.*
 - **Krümel** 🐕 — Familiar (junger Labrador-Welpe); hält als beschworener Geist nachts Wache.
 - **Verbündete vor Ort:** Marisha Vell (Heilerin) · Tobb (Krämer).
 
