@@ -11,7 +11,7 @@
 - **Background:** Wayfarer
 - **Alignment:** Chaotic Good (gutes Herz, eigene Regeln)
 - **Proficiency Bonus:** +2
-- **Heroic Inspiration:** ☐ 0  *(in Session 2 für den Reroll gegen das Flüstern verbraucht; als Human nach jeder Long Rest wieder ☑ 1)*
+- **Heroic Inspiration:** ☑ 1  *(nach Long Rest aufgefüllt; als Human nach jeder Long Rest automatisch eine)*
 
 ## Attributes & Saving Throws
 | Ability | Score | Mod | Save | proficient |
@@ -27,7 +27,7 @@
 - **Armor Class (AC):** 13 (Leather Armor + DEX)
 - **Initiative:** +3 *(DEX +2, inkl. Jack of All Trades +1)*
 - **Speed:** 30 ft (9 m)
-- **Hit Points:** 15 / 15 *(Stufe 2: +6 fest)* · **Temp HP:** —
+- **Hit Points:** 15 / 15 · **Temp HP:** —
 - **Hit Dice:** 2×d8
 - **Passive Perception:** 14 *(Perception mit Expertise)*
 - **Death Saves:** ☐☐☐ / ☐☐☐
@@ -76,7 +76,7 @@
 ## Spells & Magic
 - **Spellcasting (Bard, Charisma):** Spell Save DC **13** · Spell Attack **+5**
 - **Bardic Inspiration:** d6, **3×/Long Rest** (Bonus Action; an Verbündete)
-- **Spell Slots (1st):** **3**  *(aktuell vor Rast: **2/3** verfügbar — 1 in Session 2 für Disguise Self verbraucht; nach Long Rest 3/3)*
+- **Spell Slots (1st):** **3 / 3**  *(nach Long Rest voll)*
 
 **Cantrips:**
 - *Bard:* **Minor Illusion**, **Starry Wisp**
@@ -100,7 +100,10 @@ Hund, nicht wie ein beschworener Geist. Kann als Späher dienen und die **Help**
 - **Getragen:** Leather Armor, 2× Dagger, Light Crossbow (20 Bolts)
 - **Tools:** Thieves' Tools, Reise-Laute (Spellcasting Focus)
 - **Gepäck:** Entertainer's/Explorer's Pack, Reisekleidung, Schlafrolle, Zunderkasten, Beutel · Bündel **Fackeln**, mehrere Krüge **Lampenöl**, **Zunderschnur**, **Feuerstahl** (von Tobb) · **Verbandszeug** (Honig & Schafgarbe, von Marisha)
-- **Besonderes:** 🎶 **Die namenlose Spieluhr** (stets handwarm; spielt bisweilen von selbst eine Melodie, die niemand kennt) — Andenken an Meister Aldebran. *Entdeckt in Session 1: Die Melodie drängt das „Vergessen" kurzzeitig zurück.* *Session 2: Die Spieluhr wird **eiskalt** nahe der Kult-Magie / dem Zeichen des zugenähten Auges — und flammt **warm** auf, wenn sie Caspian gegen das „Flüstern" verankert.*
+- **Besonderes:** 🎶 **Die namenlose Spieluhr** (stets handwarm; spielt bisweilen von selbst eine Melodie, die niemand kennt) — Andenken an Meister Aldebran.
+  - *Session 1:* Die Melodie drängt das „Vergessen" kurzzeitig zurück.
+  - *Session 2:* Wird **eiskalt** nahe der Kult-Magie / dem Zeichen des zugenähten Auges — und flammt **warm** auf, wenn sie Caspian gegen das „Flüstern" verankert.
+  - *Session 3 (Identify-Ritual):* **uralt** (Zeitalter der Katastrophe), **unvollständig** — ein **Schlüssel**, der nach seinem Gegenstück **ruft** (Kompass: weist nach **Osten**, zum Hügel); **schlafend**; Wesen aus Licht, Wissen & Trauer. **Vermutlich ein Vermächtnis der Zwietracht (Vestige)** — der Kern bleibt verborgen.
 - **Andenken:** 🐓 Zinn-Wetterhahn (Geschenk von Pellam, „zeigt immer nach Hause") · 🔴 rotes Band an Krümels Halsband · 🪙 **unheimliche Münze** mit dem Zeichen des **zugenähten Auges** (Zahlmittel der „Fremden"; die Spieluhr mag sie nicht)
 - **Geld:** ~19 GP *(Tobb für Fackeln/Öl ein ganzes Goldstück gegeben, statt der verlangten 2 Silber)*
 
@@ -120,8 +123,9 @@ geschah — getrieben von Liebe, von Neugier und von einer Melodie, die ihn nich
 
 ## Level-Up Log
 - **Level 1** (2026-06-16): Charakter erstellt. Start des Abenteuers steht bevor.
-- **Session 1** (2026-06-16): Ankunft in Aschenfurt; Pellam aus dem „Vergessen" gerettet; Marisha Vell als Verbündete gewonnen; erster Kampf überlebt (fiel auf 0 HP, von Marisha geheilt). Entdeckung: die Spieluhr-Melodie bricht das Vergessen. *(Heroic Inspiration & beide Luck Points im Kampf verbraucht; nach der Long Rest in Aschenfurt wieder voll: Heroic Inspiration 1, Luck 2/2, Spell Slots 2/2, Bardic Inspiration 3/3.)*
-- **Session 2** (2026-06-17): Vorstoß in die **oberen Ruinen** der versunkenen Bibliothek; Tobb gerettet & Hinweis erhalten; per **Disguise Self** infiltriert; flüsternden Kultisten verwundet (floh in die Tiefe); erwachende **Wächtergestalt** in Brand gesetzt; **sechs versklavte Dorfbewohner befreit** und herausgeführt — unverletzt. *(Verbraucht & noch nicht gerastet: Heroic Inspiration 0, Luck 1/2, Spell Slots 1 von 2 alt, Bardic Inspiration 3/3.)* → **Meilenstein für Stufe 2 erreicht.**
+- **Session 1** (2026-06-16): Ankunft in Aschenfurt; Pellam aus dem „Vergessen" gerettet; Marisha Vell als Verbündete gewonnen; erster Kampf überlebt (fiel auf 0 HP, von Marisha geheilt). Entdeckung: die Spieluhr-Melodie bricht das Vergessen. *(Heroic Inspiration & beide Luck Points im Kampf verbraucht; nach der Long Rest in Aschenfurt wieder voll.)*
+- **Session 2** (2026-06-17): Vorstoß in die **oberen Ruinen** der versunkenen Bibliothek; Tobb gerettet & Hinweis erhalten; per **Disguise Self** infiltriert; flüsternden Kultisten verwundet (floh in die Tiefe); erwachende **Wächtergestalt** in Brand gesetzt; **sechs versklavte Dorfbewohner befreit** und herausgeführt — unverletzt. → **Meilenstein für Stufe 2 erreicht.**
 - **Level 2** (2026-06-17, mit Björn): **HP +6 → 15** (fester Wert); **Jack of All Trades** (u. a. Initiative +3); **Expertise** auf **Performance (+7)** & **Perception (+4)** → Passive Perception 14; **Spell Slots 1st: 3**; neuer prepared Spell **Heroism**. *(Bardic Inspiration bleibt d6; PB bleibt +2.)*
-- *Nächste Session:* die Befreiten zurück nach Aschenfurt; nächsten Abstieg in die Bibliothek planen.
+- **Session 3** (2026-06-17): Heimkehr der sechs Befreiten (tief gezeichnet, ein Faden zieht sie noch zum Hügel); Spieluhr per **Identify** untersucht → wohl ein schlafendes **Vestige** / ein Schlüssel, der nach Osten weist; Verdacht, der Kult hat **Aldebran**; **Dorffest** hebt die Moral; **Tomsin** kennengelernt (vermisster Vater **Garrick**). **Long Rest** — alle Ressourcen voll. Bleibt Stufe 2.
+- *Nächste Session:* nächster Abstieg in die versunkene Bibliothek (Wächter umgehen, Siegel, Tiefe); nach **Garrick** & weiteren Verschollenen suchen; evtl. einen Begleiter gewinnen.
 - *Level 3 (geplant):* College of Lore (**Cutting Words**, **Bonus Proficiencies**: 3 weitere Skills).
