@@ -91,6 +91,8 @@
 DM-Reskin: läuft mechanisch über den **Cat-Statblock** (Tiny, **Speed 40 ft**, **Keen Smell** =
 Advantage auf Perception per Geruch). Freundlich, unscheinbar — sieht aus wie ein ganz normaler
 Hund, nicht wie ein beschworener Geist. Kann als Späher dienen und die **Help**-Action geben.
+**Kein Schlaf nötig (Tisch-Kanon):** Als beschworener Geist schläft Krümel nicht — er kann nachts
+**Wache halten**, während Caspian rastet.
 
 ## Ausrüstung & Vermögen
 - **Getragen:** Leather Armor, 2× Dagger, Light Crossbow (20 Bolts)
