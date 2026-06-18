@@ -3,38 +3,35 @@
 > Schneller Überblick. **Keine Spoiler** — nur, was der Charakter/Spieler weiß.
 
 - **Regelwerk:** D&D 2024 (5.5e) ✔
-- **Letztes Update:** 2026-06-18 (Ende Session 5 — Flucht aus der Ritus-Halle, Klarlicht erwacht)
+- **Letztes Update:** 2026-06-18 (Ende Session 6 — Heimkehr, öffentliches Erinnerungs-Wunder, Plan für den Sturm)
 - **Aktuelle Stufe:** 2
-- **Aktueller Ort (im Spiel):** draußen am Hügel / der Steinbruch-Senke — **im Aufbruch zurück nach Aschenfurt** (mit vier Geretteten)
-- **Datum (im Spiel):** 7. Cuersaar (Vormittag)
+- **Aktueller Ort (im Spiel):** **Aschenfurt** — ausgeruht, bereit zum Aufbruch im Morgengrauen
+- **Datum (im Spiel):** **8. Cuersaar (Morgengrauen)**
 
 ## Party
-- **Caspian „Cas"** — Mensch, Barde 2 (Wayfarer). **15/15 HP** (unverletzt). *Vor Rast: Heroic Insp 0, Luck 0/2, Spell Slots 2/3, Bardic 2/3. Spell Attack +6, Save DC 14 (mit Klarlicht).*
-- **Doral** ⚔️ — Wachhauptmann, Gefährte (Tank). Sein **Neffe Jory** ist gerettet. *(Blatt: `charaktere/doral.md`)*
-- **Krümel** 🐕 — Familiar (hält nachts Wache).
-- **Bei sich:** vier Gerettete — **Jory** (Dorals Neffe), **Garrick** (Tomsins Vater, tief gezeichnet), 2 benommene Dorfbewohner.
-- **Verbündete im Dorf:** Marisha Vell · Tobb · Boggin Tunk · Tomsin.
+- **Caspian „Cas"** — Mensch, Barde 2. **15/15 HP** · Heroic Insp ☑1 · Luck 2/2 · Spell Slots 3/3 · Bardic 3/3 · **Erinnerungsfunke bereit** *(alles nach Long Rest)*. Spell Attack +6, Save DC 14 (Klarlicht).
+- **Doral** ⚔️ — Wachhauptmann, Gefährte (Tank). Neffe **Jory** gerettet. Mustert im Morgengrauen die Dörfler-Truppe. *(`charaktere/doral.md`)*
+- **Krümel** 🐕 — Familiar.
+- **Verbündete im Dorf:** Marisha Vell (Heilerin, eingeweiht & dabei) · Tobb · Boggin Tunk · Tomsin · **Garrick** (gerettet, erkennt Tomsin wieder).
 
 ## Offene Fäden (bekannt)
-- ✨ **„Klarlicht" ist erwacht** — das Vermächtnis (Vestige), Gegenstück der Spieluhr, an Caspian gebunden. Es schläft noch *mehr* darin; dem Lied fehlt ein **letzter Ton**; eines Tages könnten Spieluhr & Klarlicht **verschmelzen**.
-- Der **Ritus geht weiter** — die Party hat ihn nicht gestoppt; das große **Siegel** reißt. Die **Brandmal-Gestalt** hat ein Wiedersehen „am Siegel" versprochen.
-- Aldebran: *„der alte Narr hat es weitergegeben. An dich."* — die Brandmal-Gestalt kannte ihn. Was geschah mit Aldebran?
-- Die **Geretteten** heimbringen; können die tief Gezeichneten (Garrick u. a.) zurückkehren? *(Caspian will den **Erinnerungsfunken** des Klarlichts nutzen.)*
-- Ein **bewusstloser Kult-Gefangener** liegt noch in der oberen Ruine.
+- 🗡️ **Der Plan:** Im Morgengrauen mit einer **Dorf-Armee** (Doral führt) zurück zum Hügel — den **Ritus beenden**, ehe der Kult fertig wird. *Hoffnung: die Rettung der Gefangenen hat den Ritus verzögert.*
+- ⚠️ **Marishas Warnung:** Bauern sind keine Soldaten; die Tiefe ist tödlich. Und die **Uhr tickt**.
+- 👁️ Die **Brandmal-Gestalt** erwartet Caspian „am Siegel". Sie kannte **Aldebran** (*„der alte Narr hat es weitergegeben"*).
+- ✨ **Klarlicht** schläft noch tiefer (Awakened später); dem Lied fehlt ein **letzter Ton**; Spieluhr & Klarlicht könnten **verschmelzen**.
+- Die zwei noch tief gezeichneten Geretteten; ein bewusstloser Kult-Gefangener (oben in der Ruine).
 
 ## Wichtige Kontakte (bekannt)
-- **Aldebran** (verschwunden) — Ziehvater; gab Caspian die Spieluhr.
-- **Doral** — Gefährte; Onkel von Jory. · **Jory** — gerettet. · **Garrick** — Tomsins Vater, gerettet.
-- **Marisha Vell** — Heilerin. · **Tobb** — Krämer (Frau Ostara). · **Boggin Tunk** — Wirt. · **Tomsin** — sein Vater Garrick ist nun gerettet!
-- **Sechs Befreite** (Session 2) · **Pellam** · **Edda** · ein misstrauischer Wachmann.
+- **Aldebran** (verschwunden) — gab Caspian die Spieluhr. · **Doral** (Gefährte) & **Jory** (Neffe, gerettet).
+- **Garrick** — Tomsins Vater; erkennt seinen Sohn wieder (Rest-Nebel bleibt). · **Tomsin**.
+- **Marisha Vell** · **Tobb** (Frau Ostara) · **Boggin Tunk** · **sechs Befreite** (Session 2) · **Pellam** · **Edda**.
 
 ## Inventar-Highlights / Besondere Gegenstände
-- ✨ **„Klarlicht"** — erwachtes Vermächtnis: Zauberfokus +1, **Erinnerungsfunke** (1×/Long Rest), leuchtet nahe Kult-Magie.
-- 🎶 Die **namenlose Spieluhr** — Resonanz-Schlüssel zu Klarlicht; bricht das Vergessen; das Lied hat nun eine zweite Stimme (ein Ton fehlt).
-- 🪙 Unheimliche Münze (zugenähtes Auge) · 🔦 Fackeln, Feuerstahl *(Öl aufgebraucht)* · 🩹 Heiltinktur.
+- ✨ **Klarlicht** — erwachtes Vermächtnis: Zauberfokus +1, **Erinnerungsfunke** (1×/Long Rest), Licht gegen Kult/Vergessen.
+- 🎶 **namenlose Spieluhr** — Resonanz-Schlüssel zu Klarlicht; bricht das Vergessen.
+- 🪙 unheimliche Münze (zugenähtes Auge) · 🔦 Fackeln, Feuerstahl *(Öl leer)* · 🩹 Heiltinktur.
 
-## Wissen über das „Vergessen" (Stand Session 5)
-- Quelle: der **Kult** unter dem Hügel — ein **Ritus** bricht ein altes **Siegel**, gespeist u. a. aus den geraubten Erinnerungen Gefangener.
-- **Licht/radiant & Feuer** wirken; **Klarlichts goldenes Licht** erreicht sogar *tief* Gezeichnete (klärte die Geretteten auf der Flucht).
-- Trifft zuerst Verwurzelte/Einsame/Stille; verschont Bewegliche/Fremde.
-- Echte Heilung der tief Gezeichneten braucht wohl das Ende der Quelle — *oder* den Erinnerungsfunken (begrenzt).
+## Wissen über das „Vergessen" (Stand Session 6)
+- Quelle: der **Kult** unter dem Hügel — ein **Ritus** bricht ein **Siegel**, gespeist u. a. aus geraubten Erinnerungen Gefangener (die Party entzog ihm welche).
+- **Licht/radiant & Feuer** wirken; **Klarlichts goldenes Licht** erreicht sogar tief Gezeichnete und kann (begrenzt) Erinnerung zurückgeben.
+- Echte Heilung der tief Gezeichneten braucht wohl das Ende der Quelle.
