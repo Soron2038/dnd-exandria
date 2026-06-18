@@ -166,10 +166,17 @@ Beim **Angreifen** kann ein unbewaffneter Schlag eine der drei Optionen wählen:
 
 ---
 
-## 11. Hausregeln (dieser Tisch)
-*(leer — wird bei Bedarf gemeinsam ergänzt und hier festgehalten)*
+## 11. Hausregeln & Tisch-Konventionen (dieser Tisch)
+*(wird bei Bedarf gemeinsam ergänzt und hier festgehalten)*
 
-- _Beispiel-Slot:_ —
+- **Cutting Words — Handhabung „Variante A / Smart-Prompt"** *(greift ab Caspian Level 3, College of Lore):*
+  Cutting Words ist eine **Reaction** und kostet **1 Bardic Inspiration**. Trigger (2024): ein sichtbarer
+  Gegner in 60 ft **macht eine Damage Roll** *oder* **gelingt** ein Attack Roll / Ability Check / Saving Throw.
+  **DM-Handhabung:** Bei unserem offenen Würfeln nenne ich bei jedem **negierbaren, relevanten Erfolg** die
+  **Marge** (Wurf vs. AC/DC) und frage *nur dann* nach Cutting Words. „Relevant" = Treffer **gegen Caspian
+  oder Verbündete**, **Crits**, dicke **Damage Rolls**, oder ein **Save gegen Caspians Spell**. Misses und
+  belanglose Treffer lösen **keinen** Prompt aus. So bleibt es ein Schlüssel-Werkzeug, ohne den Fluss zu stören.
+  *(Von Björn gewählt.)*
 
 ---
 
