@@ -49,7 +49,7 @@
 ## Spells & Magic
 - **Spellcasting (Bard, CHA):** Spell Save DC **14** · Spell Attack **+6** *(inkl. Klarlicht +1)*
 - **Bardic Inspiration:** d6, **3/3** *(speist auch Cutting Words)*
-- **Spell Slots:** **1st: 4** · **2nd: 2**  *(aktuell vor Rast: 1st **3/4** — 1 für Cure Wounds; 2nd **2/2**)*
+- **Spell Slots:** **1st: 4** · **2nd: 2**  *(frisch nach Long Rest — alle verfügbar)*
 - **Cantrips (2):** Minor Illusion, Starry Wisp · *(Magic Initiate:)* Mage Hand, Prestidigitation
 - **Prepared (6):** Cure Wounds *(2d8+3)* · Disguise Self · Identify · Silent Image · Heroism · **Suggestion** *(2nd — neu)*
 - *(Magic Initiate, Wizard:)* **Find Familiar** 🐕
@@ -58,8 +58,10 @@
 
 ## ✨ Vermächtnis „Klarlicht" (ERWACHT/Dormant)
 - Gegenstück der Spieluhr (Verschmelzung möglich). **Zauberfokus +1** (oben eingerechnet).
-- **Erinnerungsfunke (1×/Long Rest):** kürzlich geraubte Erinnerung (9 m) zurückrufen. *(Bereit.)*
+- **Erinnerungsfunke (1×/Long Rest):** kürzlich geraubte Erinnerung (9 m) zurückrufen. *(Bereit — in S8 bewusst NICHT verbraucht.)*
 - Leuchtet/kühlt nahe Kult-Magie. ⚠️ *Wurde in der Tiefe hinter dem Siegel schwach.* *(Mehr schläft darin; ein letzter Ton fehlt — s. Aldebrans Aufziehschlüssel.)*
+- *S8: reagierte tief auf eine wahrhaftige Tat (Wahrheit über Bequemlichkeit) — etwas „verschob" sich, rückt näher.*
+- 🕳️ **Erinnerungslücke (gewählt):** Aldebrans **Augenfarbe** — vom Flüster-Fokus geraubt, **nicht** zurückgeholt. Caspian behält das Loch als Mahnung & „Kompass" Richtung schwarze Tür.
 
 ### Familiar 🐕 Krümel
 Cat-Reskin (Tiny, Speed 40, Keen Smell). Späher & Help. Kein Schlaf nötig (Nachtwache).
@@ -70,7 +72,7 @@ Wachhauptmann (Tank), Neffe **Jory** gerettet. `charaktere/doral.md`.
 ## Ausrüstung & Vermögen
 - **Getragen:** Leather Armor, 2× Dagger, Light Crossbow (20 Bolts) · **Fokus:** Reise-Laute / **Klarlicht**
 - **Gepäck:** Packs, Schlafrolle, Zunderkasten · Fackeln, Zunderschnur, Feuerstahl *(Öl leer)* · Verbandszeug + **Heiltinktur**
-- **Besonderes:** 🎶 namenlose Spieluhr · ✨ Klarlicht · 🗝️ **Aldebrans Aufziehschlüssel** (Spieluhr-Gravuren; der „letzte Ton"?) · ⚫ Ledras Flüster-Fokus (zugenähtes Auge; Identify offen) · 👁️ Amulett (zugenähtes Auge) · 📜 Ledras Brief vom „Magister"
+- **Besonderes:** 🎶 namenlose Spieluhr · ✨ Klarlicht · 🗝️ **Aldebrans Aufziehschlüssel** (passt in die Spieluhr! zieht eine **erweiterte Phrase** auf — ein **letzter Ton** fehlt noch) · ⚫ Ledras Flüster-Fokus — **ausgebrannt/tot** (identifiziert: Kult-Fokus für „erflüsterte" Geheimnisse; beim Losreißen erloschen) · 👁️ Amulett (zugenähtes Auge; Identify offen) · 📜 Ledras Brief vom „Magister"
 - **Andenken:** 🐓 Zinn-Wetterhahn · 🔴 rotes Band (Krümel) · 🪙 alte Münzen (zugenähtes Auge)
 - **Geld:** ~19 GP + Ledras Münzbeutel
 
@@ -86,6 +88,7 @@ Wuchs im Kuriositätenwagen des Sammlers **Aldebran** auf; dieser verschwand, di
 - **S2** (06-17) obere Ruinen; 6 befreit → Meilenstein Stufe 2.
 - **L2** (06-17) HP→15; Jack of All Trades; Expertise (Performance/Perception); Heroism.
 - **S3** Spieluhr = Vestige; Dorffest; Tomsin. **S4** Doral; Ölfalle. **S5** **Klarlicht erweckt**; 4 befreit. **S6** Heimkehr; Erinnerungsfunke. **S7** **Akt-I-Sturm**: Ritus zerrissen, Siegel gehalten, Ledra getötet → Meilenstein Stufe 3.
-- **L3** (06-19, mit Björn): **HP +6 → 21**; **College of Lore** (Bonus Proficiencies: **Deception, Investigation, Animal Handling**; **Cutting Words**); **Spell Slots 2nd-Level** freigeschaltet (1st:4 / 2nd:2); neuer Spell **Suggestion**.
-- *Nächste Session:* Triumph-Heimkehr; Akt II (schwarze Tür, der „Magister", die Flüsterkammer) vorbereiten.
+- **L3** (06-22, mit Björn): **HP +6 → 21**; **College of Lore** (Bonus Proficiencies: **Deception, Investigation, Animal Handling**; **Cutting Words**); **Spell Slots 2nd-Level** freigeschaltet (1st:4 / 2nd:2); neuer Spell **Suggestion**.
+- **S8** (06-22) Triumph-Heimkehr (Held von Aschenfurt); nachts **Identify** auf Fokus & Schlüssel. Lauschte dem **Flüster-Fokus** (Frage nach Aldebran) → Spur *(Aldebran unten; „der Teil, der nein sagt", genommen; der „Magister" bei ihm)*; Preis: Augenfarbe geraubt + **vom Feind bemerkt**. Riss sich mit Klarlichts Licht los *(CHA Save 20 mit Heroic Insp)*; Fokus erlosch. **Behielt die Erinnerungslücke bewusst.**
+- *Nächste Session:* Morgen des 9. Cuersaar; Akt II beginnt — der Feind weiß jetzt von Caspian & Klarlicht.
 - *Level 5 (Ausblick):* Bardic Inspiration → d8, 3rd ASI/Feat-Stufe ist erst 4; ab 5: Font of Inspiration & 3rd-level Slots.
