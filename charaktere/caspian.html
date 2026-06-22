@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Caspian „Cas" — Charakterbogen</title>
+<style>
+  :root{
+    --ink:#2b2118; --ink-soft:#5a4a36; --parch:#f4ecd8; --parch-2:#efe4c9;
+    --line:#cdba93; --gold:#9a7426; --gold-2:#c4a14e; --burg:#7a2e2e;
+    --teal:#176d70; --teal-soft:#e2f0ef; --card:#fbf6e9; --shadow:rgba(60,40,15,.15);
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0; padding:24px 14px 60px;
+    font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;
+    color:var(--ink); line-height:1.5;
+    background:
+      radial-gradient(1200px 600px at 50% -200px, #fbf4e0, transparent),
+      linear-gradient(180deg,#efe4c8,#e7d9b6);
+    min-height:100vh;
+  }
+  .sheet{max-width:980px;margin:0 auto}
+
+  /* ---------- Header ---------- */
+  header.top{
+    display:flex; flex-wrap:wrap; align-items:flex-end; gap:10px 24px;
+    border-bottom:3px double var(--gold); padding-bottom:14px; margin-bottom:18px;
+  }
+  .name{font-size:2.6rem; font-weight:700; letter-spacing:.5px; line-height:1.05; margin:0;
+    color:var(--burg); text-shadow:0 1px 0 #fff6;}
+  .sub{font-size:1.05rem; color:var(--ink-soft); margin-top:4px; font-variant:small-caps; letter-spacing:.5px}
+  .header-right{margin-left:auto; display:flex; gap:10px; flex-wrap:wrap}
+  .badge{
+    background:var(--card); border:1px solid var(--line); border-radius:10px;
+    padding:6px 12px; text-align:center; box-shadow:0 1px 2px var(--shadow); min-width:96px;
+  }
+  .badge .lab{font-size:.62rem; text-transform:uppercase; letter-spacing:1px; color:var(--gold)}
+  .badge .val{font-size:1.25rem; font-weight:700}
+  .badge.insp .val{color:var(--burg)}
+
+  /* ---------- Stat bar ---------- */
+  .statbar{
+    display:grid; grid-template-columns:repeat(8,1fr); gap:8px; margin:0 0 20px;
+  }
+  .stat{
+    background:var(--card); border:1px solid var(--line); border-radius:10px;
+    padding:8px 4px; text-align:center; box-shadow:0 1px 2px var(--shadow);
+  }
+  .stat .lab{display:block; font-size:.58rem; text-transform:uppercase; letter-spacing:.6px; color:var(--gold); margin-bottom:2px}
+  .stat .val{font-size:1.3rem; font-weight:700}
+
+  /* ---------- Layout ---------- */
+  .grid{display:grid; grid-template-columns:1fr 1fr; gap:18px; align-items:start}
+  section.card{
+    background:var(--card); border:1px solid var(--line); border-radius:12px;
+    padding:14px 16px 16px; box-shadow:0 2px 5px var(--shadow); margin-bottom:18px;
+  }
+  section.card.span2{grid-column:1 / -1}
+  h2{
+    font-size:.85rem; text-transform:uppercase; letter-spacing:1.5px; color:var(--burg);
+    margin:0 0 10px; padding-bottom:6px; border-bottom:1px solid var(--line);
+    display:flex; align-items:center; gap:8px;
+  }
+  h2 .ico{font-size:1.05rem}
+
+  /* ---------- Abilities ---------- */
+  .abilities{display:grid; grid-template-columns:repeat(6,1fr); gap:10px}
+  .abil{
+    background:linear-gradient(180deg,#fff9ea,#f3e8cb); border:1px solid var(--line);
+    border-radius:12px; text-align:center; padding:8px 4px 6px; position:relative;
+  }
+  .abil .nm{font-size:.62rem; letter-spacing:1px; text-transform:uppercase; color:var(--gold); font-weight:700}
+  .abil .mod{font-size:1.8rem; font-weight:700; line-height:1.1}
+  .abil .sc{font-size:.78rem; color:var(--ink-soft)}
+  .abil .save{font-size:.7rem; margin-top:4px; padding-top:4px; border-top:1px dashed var(--line); color:var(--ink-soft)}
+  .abil .save b{color:var(--ink)}
+  .abil.prof-save{box-shadow:inset 0 0 0 2px var(--gold-2)}
+  .abil.prof-save .save{color:var(--gold)}
+
+  /* ---------- Skills ---------- */
+  .skills{columns:2; column-gap:26px}
+  .skill{
+    display:flex; align-items:center; gap:8px; padding:3px 0;
+    break-inside:avoid; border-bottom:1px dotted #e0d2ac;
+  }
+  .skill .pip{flex:0 0 auto; width:14px; text-align:center; font-size:.8rem}
+  .skill .pip.p{color:var(--gold)} .skill .pip.e{color:var(--burg)} .skill .pip.n{color:#c9b58c}
+  .skill .nm{flex:1 1 auto}
+  .skill .ab{font-size:.62rem; color:var(--ink-soft); text-transform:uppercase; letter-spacing:.5px}
+  .skill .tot{flex:0 0 auto; font-weight:700; min-width:30px; text-align:right}
+  .skill.is-e .nm{font-weight:700}
+  .skill.is-p .nm{font-weight:600}
+  .legend{font-size:.7rem; color:var(--ink-soft); margin-top:8px}
+  .legend span{margin-right:12px}
+
+  /* ---------- generic lists / tables ---------- */
+  table{width:100%; border-collapse:collapse; font-size:.92rem}
+  th,td{text-align:left; padding:5px 6px; border-bottom:1px solid #e6d9b6}
+  th{font-size:.62rem; text-transform:uppercase; letter-spacing:.8px; color:var(--gold)}
+  td.r,th.r{text-align:right}
+  ul.clean{list-style:none; margin:0; padding:0}
+  ul.clean li{padding:3px 0; border-bottom:1px dotted #e6d9b6}
+  ul.clean li:last-child{border-bottom:0}
+  .tag{display:inline-block; font-size:.62rem; font-weight:700; padding:1px 6px; border-radius:6px;
+    background:var(--parch-2); border:1px solid var(--line); color:var(--ink-soft); vertical-align:middle; margin-left:4px}
+  .tag.lv{background:#efe0ef; border-color:#caa9ca; color:#6a2e6a}
+  .tag.cn{background:#eef4ff; border-color:#a9c0e6; color:#2e4e8a}
+  .tag.new{background:#e9f7e4; border-color:#9cc88c; color:#3a6a2e}
+  .feat h3, .spellblock h3{margin:10px 0 3px; font-size:.98rem; color:var(--burg)}
+  .feat h3:first-child{margin-top:0}
+  .muted{color:var(--ink-soft); font-size:.86rem}
+  .pips{letter-spacing:3px; font-size:1.05rem; color:var(--gold)}
+  .kvline{display:flex; flex-wrap:wrap; gap:6px 18px; margin-bottom:10px}
+  .kv{font-size:.9rem}
+  .kv b{color:var(--burg)}
+
+  /* Klarlicht accent */
+  section.klar{background:linear-gradient(180deg,#f0f8f7,#e2efee); border-color:#a9d2d0}
+  section.klar h2{color:var(--teal); border-color:#a9d2d0}
+
+  .companion{display:flex; gap:10px; align-items:flex-start; padding:6px 0; border-bottom:1px dotted #e6d9b6}
+  .companion:last-child{border-bottom:0}
+  .companion .em{font-size:1.6rem; line-height:1}
+  .companion .nm{font-weight:700}
+  .companion .ds{font-size:.84rem; color:var(--ink-soft)}
+
+  footer.foot{margin-top:24px; padding-top:12px; border-top:3px double var(--gold);
+    font-size:.74rem; color:var(--ink-soft); text-align:center}
+
+  @media (max-width:760px){
+    .statbar{grid-template-columns:repeat(4,1fr)}
+    .abilities{grid-template-columns:repeat(3,1fr)}
+    .grid{grid-template-columns:1fr}
+    .skills{columns:1}
+    .name{font-size:2.1rem}
+  }
+  @media print{
+    body{background:#fff; padding:0}
+    section.card,.badge,.stat,.abil{box-shadow:none}
+    .header-right{gap:6px}
+  }
+</style>
+</head>
+<body>
+<div class="sheet">
+
+  <header class="top">
+    <div>
+      <h1 class="name">Caspian <span style="font-weight:400">„Cas"</span></h1>
+      <div class="sub">Human · Bard 3 · College of Lore &nbsp;•&nbsp; Wayfarer · Chaotic Good</div>
+    </div>
+    <div class="header-right">
+      <div class="badge"><div class="lab">Proficiency</div><div class="val">+2</div></div>
+      <div class="badge insp"><div class="lab">Heroic Inspiration</div><div class="val">☑ 1</div></div>
+    </div>
+  </header>
+
+  <!-- ---------- Stat bar ---------- -->
+  <div class="statbar">
+    <div class="stat"><span class="lab">Armor Class</span><span class="val">13</span></div>
+    <div class="stat"><span class="lab">Hit Points</span><span class="val">21</span></div>
+    <div class="stat"><span class="lab">Initiative</span><span class="val">+3</span></div>
+    <div class="stat"><span class="lab">Speed</span><span class="val">30 ft</span></div>
+    <div class="stat"><span class="lab">Hit Dice</span><span class="val">3d8</span></div>
+    <div class="stat"><span class="lab">Pass. Perception</span><span class="val">14</span></div>
+    <div class="stat"><span class="lab">Spell Save DC</span><span class="val">14</span></div>
+    <div class="stat"><span class="lab">Spell Attack</span><span class="val">+6</span></div>
+  </div>
+
+  <!-- ---------- Abilities ---------- -->
+  <section class="card span2">
+    <h2><span class="ico">🎲</span> Attribute &amp; Saving Throws</h2>
+    <div class="abilities">
+      <div class="abil"><div class="nm">STR</div><div class="mod">−1</div><div class="sc">9</div><div class="save">Save <b>−1</b></div></div>
+      <div class="abil prof-save"><div class="nm">DEX</div><div class="mod">+2</div><div class="sc">15</div><div class="save">Save <b>+4</b> ●</div></div>
+      <div class="abil"><div class="nm">CON</div><div class="mod">+1</div><div class="sc">12</div><div class="save">Save <b>+1</b></div></div>
+      <div class="abil"><div class="nm">INT</div><div class="mod">+0</div><div class="sc">11</div><div class="save">Save <b>+0</b></div></div>
+      <div class="abil"><div class="nm">WIS</div><div class="mod">+0</div><div class="sc">11</div><div class="save">Save <b>+0</b></div></div>
+      <div class="abil prof-save"><div class="nm">CHA</div><div class="mod">+3</div><div class="sc">17</div><div class="save">Save <b>+5</b> ●</div></div>
+    </div>
+  </section>
+
+  <div class="grid">
+
+    <!-- ---------- Skills ---------- -->
+    <section class="card">
+      <h2><span class="ico">📜</span> Fertigkeiten (Skills)</h2>
+      <div class="skills">
+        <div class="skill is-p"><span class="pip p">●</span><span class="nm">Acrobatics</span><span class="ab">Dex</span><span class="tot">+3</span></div>
+        <div class="skill is-p"><span class="pip p">●</span><span class="nm">Animal Handling</span><span class="ab">Wis</span><span class="tot">+2</span></div>
+        <div class="skill"><span class="pip n">○</span><span class="nm">Arcana</span><span class="ab">Int</span><span class="tot">+1</span></div>
+        <div class="skill"><span class="pip n">○</span><span class="nm">Athletics</span><span class="ab">Str</span><span class="tot">+0</span></div>
+        <div class="skill is-p"><span class="pip p">●</span><span class="nm">Deception</span><span class="ab">Cha</span><span class="tot">+5</span></div>
+        <div class="skill"><span class="pip n">○</span><span class="nm">History</span><span class="ab">Int</span><span class="tot">+1</span></div>
+        <div class="skill is-p"><span class="pip p">●</span><span class="nm">Insight</span><span class="ab">Wis</span><span class="tot">+2</span></div>
+        <div class="skill"><span class="pip n">○</span><span class="nm">Intimidation</span><span class="ab">Cha</span><span class="tot">+4</span></div>
+        <div class="skill is-p"><span class="pip p">●</span><span class="nm">Investigation</span><span class="ab">Int</span><span class="tot">+2</span></div>
+        <div class="skill"><span class="pip n">○</span><span class="nm">Medicine</span><span class="ab">Wis</span><span class="tot">+1</span></div>
+        <div class="skill"><span class="pip n">○</span><span class="nm">Nature</span><span class="ab">Int</span><span class="tot">+1</span></div>
+        <div class="skill is-e"><span class="pip e">★</span><span class="nm">Perception</span><span class="ab">Wis</span><span class="tot">+4</span></div>
+        <div class="skill is-e"><span class="pip e">★</span><span class="nm">Performance</span><span class="ab">Cha</span><span class="tot">+7</span></div>
+        <div class="skill is-p"><span class="pip p">●</span><span class="nm">Persuasion</span><span class="ab">Cha</span><span class="tot">+5</span></div>
+        <div class="skill"><span class="pip n">○</span><span class="nm">Religion</span><span class="ab">Int</span><span class="tot">+1</span></div>
+        <div class="skill is-p"><span class="pip p">●</span><span class="nm">Sleight of Hand</span><span class="ab">Dex</span><span class="tot">+4</span></div>
+        <div class="skill is-p"><span class="pip p">●</span><span class="nm">Stealth</span><span class="ab">Dex</span><span class="tot">+4</span></div>
+        <div class="skill"><span class="pip n">○</span><span class="nm">Survival</span><span class="ab">Wis</span><span class="tot">+1</span></div>
+      </div>
+      <div class="legend">
+        <span>★ Expertise</span><span>● Proficient</span><span>○ Jack of All Trades (+1)</span>
+      </div>
+    </section>
+
+    <!-- ---------- Combat / Weapons ---------- -->
+    <section class="card">
+      <h2><span class="ico">⚔️</span> Kampf &amp; Waffen</h2>
+      <table>
+        <tr><th>Waffe</th><th class="r">Attack</th><th>Damage</th></tr>
+        <tr><td>Dagger</td><td class="r">+4</td><td>1d4+2 piercing <span class="muted">· Finesse, Light, Thrown 20/60</span></td></tr>
+        <tr><td>Light Crossbow</td><td class="r">+4</td><td>1d8+2 piercing <span class="muted">· Loading, Two-Handed, 80/320</span></td></tr>
+        <tr><td>Starry Wisp <span class="muted">(Cantrip)</span></td><td class="r">+6</td><td>1d8 radiant <span class="muted">· 60 ft, leuchtet das Ziel an</span></td></tr>
+      </table>
+      <p class="muted" style="margin-bottom:0">Death Saves: ☐☐☐ / ☐☐☐ &nbsp;•&nbsp; Temp HP: —</p>
+    </section>
+
+    <!-- ---------- Class Features ---------- -->
+    <section class="card feat">
+      <h2><span class="ico">🎓</span> Klassen-Features</h2>
+      <h3>College of Lore <span class="tag">Stufe 3</span></h3>
+      <p class="muted" style="margin:0 0 6px">
+        <b>Bonus Proficiencies:</b> Deception, Investigation, Animal Handling.<br>
+        <b>Cutting Words</b> <span class="tag cn">Reaction</span> — kostet 1 Bardic Inspiration. Ein sichtbarer Gegner
+        (60 ft), der gerade trifft / einen Check oder Save schafft / Schaden würfelt: ziehe deinen
+        Bardic-d6 von seinem Wurf ab. <span class="tag new">Variante A</span>
+      </p>
+      <h3>Bardic Inspiration <span class="tag">d6 · 3×</span></h3>
+      <p class="muted" style="margin:0 0 6px">Bonus Action; Verbündeter addiert d6 auf Attack/Check/Save. Speist auch Cutting Words. Erneuert mit Long Rest.</p>
+      <h3>Jack of All Trades</h3>
+      <p class="muted" style="margin:0 0 6px">+1 auf alle Ability Checks <i>ohne</i> Proficiency (inkl. Initiative).</p>
+      <h3>Expertise</h3>
+      <p class="muted" style="margin:0">Performance ★ · Perception ★ (doppelter Proficiency Bonus).</p>
+    </section>
+
+    <!-- ---------- Feats ---------- -->
+    <section class="card feat">
+      <h2><span class="ico">✨</span> Feats &amp; Talente</h2>
+      <h3>Lucky <span class="tag">Wayfarer</span></h3>
+      <p class="muted" style="margin:0 0 6px">2 Luck Points / Long Rest: nach einem d20 als Advantage/Disadvantage nutzen.</p>
+      <h3>Magic Initiate (Wizard) <span class="tag">Human</span></h3>
+      <p class="muted" style="margin:0">2 Wizard-Cantrips (Mage Hand, Prestidigitation) + Find Familiar.</p>
+      <hr style="border:0;border-top:1px dotted #e0d2ac;margin:10px 0">
+      <p class="muted" style="margin:0">
+        <b>Proficiencies:</b> Light Armor · Simple Weapons · Thieves' Tools · 3 Musical Instruments.<br>
+        <b>Sprachen:</b> Common · Draconic · Gnomish.
+      </p>
+    </section>
+
+    <!-- ---------- Spells ---------- -->
+    <section class="card span2 spellblock">
+      <h2><span class="ico">🪄</span> Zauber (Spellcasting · Charisma)</h2>
+      <div class="kvline">
+        <span class="kv"><b>Spell Save DC</b> 14</span>
+        <span class="kv"><b>Spell Attack</b> +6</span>
+        <span class="kv"><b>Slots 1st</b> <span class="pips">●●●●</span></span>
+        <span class="kv"><b>Slots 2nd</b> <span class="pips">●●</span></span>
+      </div>
+      <div class="grid" style="gap:14px">
+        <div>
+          <h3>Cantrips</h3>
+          <ul class="clean">
+            <li>Minor Illusion</li>
+            <li>Starry Wisp</li>
+            <li>Mage Hand <span class="muted">(Magic Initiate)</span></li>
+            <li>Prestidigitation <span class="muted">(Magic Initiate)</span></li>
+          </ul>
+        </div>
+        <div>
+          <h3>Prepared Spells <span class="muted">(6)</span></h3>
+          <ul class="clean">
+            <li>Cure Wounds <span class="tag lv">1st</span> <span class="muted">2d8+3</span></li>
+            <li>Disguise Self <span class="tag lv">1st</span></li>
+            <li>Identify <span class="tag lv">1st</span></li>
+            <li>Silent Image <span class="tag lv">1st</span> <span class="tag cn">Conc.</span></li>
+            <li>Heroism <span class="tag lv">1st</span> <span class="tag cn">Conc.</span></li>
+            <li>Suggestion <span class="tag lv">2nd</span> <span class="tag cn">Conc.</span> <span class="tag new">neu</span></li>
+            <li>Find Familiar <span class="tag lv">Ritual</span> <span class="muted">(Magic Initiate)</span></li>
+          </ul>
+        </div>
+      </div>
+      <p class="muted" style="margin:8px 0 0"><b>Suggestion:</b> 1 Ziel in 30 ft, hört &amp; versteht dich → <b>WIS Save</b> vs DC 14, sonst folgt es einem vernünftig klingenden Vorschlag (Concentration, bis 8 Std.).</p>
+    </section>
+
+    <!-- ---------- Klarlicht (Vestige) ---------- -->
+    <section class="card span2 klar">
+      <h2><span class="ico">🕯️</span> Vermächtnis „Klarlicht" <span class="muted" style="font-weight:400">(Vestige · Dormant)</span></h2>
+      <p style="margin:0 0 6px">Erwachter Zauberfokus &amp; Gegenstück der namenlosen Spieluhr. Gewährt <b>+1</b> auf Spell Attack &amp; Spell Save DC (oben eingerechnet).</p>
+      <ul class="clean">
+        <li><b>Erinnerungsfunke</b> <span class="tag">1× / Long Rest</span> — ruft eine kürzlich geraubte Erinnerung (9 m) zurück. <span class="muted">Bereit.</span></li>
+        <li><b>Kult-Witterung</b> — leuchtet &amp; kühlt nahe Kult-Magie. <span class="muted">⚠️ wurde hinter dem Siegel schwach.</span></li>
+      </ul>
+      <p class="muted" style="margin:6px 0 0">Mehr schläft darin — ein letzter Ton fehlt (vgl. Aldebrans Aufziehschlüssel).</p>
+    </section>
+
+    <!-- ---------- Companions ---------- -->
+    <section class="card">
+      <h2><span class="ico">🐾</span> Gefährten</h2>
+      <div class="companion">
+        <div class="em">🐕</div>
+        <div><div class="nm">Krümel <span class="muted">— Familiar</span></div>
+        <div class="ds">Cat-Statblock (Tiny, Speed 40, Keen Smell). Späher &amp; Help-Action; braucht keinen Schlaf (Nachtwache).</div></div>
+      </div>
+      <div class="companion">
+        <div class="em">⚔️</div>
+        <div><div class="nm">Doral <span class="muted">— Verbündeter</span></div>
+        <div class="ds">Wachhauptmann (Tank). Neffe Jory gerettet. Eigenes Blatt: <code>charaktere/doral.md</code>.</div></div>
+      </div>
+    </section>
+
+    <!-- ---------- Equipment ---------- -->
+    <section class="card">
+      <h2><span class="ico">🎒</span> Ausrüstung &amp; Vermögen</h2>
+      <ul class="clean">
+        <li><b>Getragen:</b> Leather Armor · 2× Dagger · Light Crossbow (20 Bolts) · Fokus: Reise-Laute / Klarlicht</li>
+        <li><b>Gepäck:</b> Packs, Schlafrolle, Zunderkasten, Fackeln, Feuerstahl <span class="muted">(Öl leer)</span>, Verbandszeug + Heiltinktur</li>
+        <li>🎶 namenlose Spieluhr &nbsp; ✨ Klarlicht &nbsp; 🗝️ Aldebrans Aufziehschlüssel</li>
+        <li>⚫ Ledras Flüster-Fokus <span class="muted">(Identify offen)</span> · 👁️ Amulett · 📜 Ledras Brief vom „Magister"</li>
+        <li>🐓 Zinn-Wetterhahn · 🔴 rotes Band (Krümel) · 🪙 alte Münzen</li>
+        <li><b>Geld:</b> ~19 GP + Ledras Münzbeutel</li>
+      </ul>
+    </section>
+
+    <!-- ---------- Personality ---------- -->
+    <section class="card span2">
+      <h2><span class="ico">🎭</span> Persönlichkeit</h2>
+      <div class="kvline" style="gap:10px 26px">
+        <span class="kv"><b>Wesenszug:</b> staunende Augen, redet mit Gegenständen.</span>
+        <span class="kv"><b>Ideal:</b> „Jedes Ding &amp; jeder Mensch trägt eine Geschichte."</span>
+        <span class="kv"><b>Bindung:</b> Aldebran &amp; die Spieluhr.</span>
+        <span class="kv"><b>Makel:</b> unheilbar neugierig.</span>
+      </div>
+      <p class="muted" style="margin:0">Unter Druck kühler &amp; härter; Realist — lässt Besiegte nicht einfach laufen.</p>
+    </section>
+
+  </div>
+
+  <footer class="foot">
+    Stand: <b>Stufe 3</b> · im Spiel 8. Cuersaar · Setting Exandria · Regelwerk D&amp;D 2024 (5.5e)<br>
+    Spiegel von <code>charaktere/caspian.md</code> — manuell aktualisiert bei Stufenaufstieg &amp; auf Anfrage.
+  </footer>
+
+</div>
+</body>
+</html>

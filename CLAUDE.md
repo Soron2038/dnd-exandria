@@ -80,12 +80,19 @@ Die 2014er-Regeln („5e classic") sind in dieser Kampagne **ungültig**.
 | `npcs/` | NSC-Steckbriefe | gemischt — sensible als `_geheim` markieren |
 | `dm-geheim/` | **Kampagnen-Bibel, Plot, Twists, Belohnungen** | **JA — Björn liest hier NICHT** |
 
+**Browser-Bogen:** Neben `charaktere/caspian.md` (technische Quelle, von mir genutzt)
+existiert `charaktere/caspian.html` — ein **eigenständiger, spielersichtbarer** Charakterbogen
+für den Browser (per Doppelklick zu öffnen, alles inline, **keine** externen Abhängigkeiten).
+**Aktualisierung NUR bei Stufenanstieg oder auf Björns Zuruf** — *nicht* bei HP-/Gold-Kleinkram.
+Die `.md` bleibt die maßgebliche Quelle; die `.html` ist ihr hübscher, übersichtlicher Spiegel.
+
 **Spoiler-Regel:** Plot-Details, Twists und kommende Belohnungen leben NUR in
 `dm-geheim/`. Im Chat **niemals** spoilern. Björn wünscht ausdrücklich Überraschung.
 
 ### Pflege nach jeder Session
 1. Sessionlog in `logbuch/` schreiben (Vorlage: `logbuch/_VORLAGE.md`).
 2. Charakterblatt aktualisieren (HP, Stufe, Items, Inspiration, Gold, etc.).
+   *(Bei Stufenanstieg zusätzlich `charaktere/caspian.html` nachziehen.)*
 3. `kampagne/kampagnen-status.md` aktualisieren (offene Fäden, Standort, Datum im Spiel).
 4. `dm-geheim/` nachziehen (was wurde aufgedeckt, was kommt als Nächstes).
 5. Committen mit klarer Nachricht (z. B. `Session 3: Versunkene Bibliothek`).
