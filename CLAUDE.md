@@ -66,6 +66,14 @@ Die 2014er-Regeln („5e classic") sind in dieser Kampagne **ungültig**.
 - **Verdeckte Würfe:** Manche Würfe (z. B. ob eine Lüge auffällt) macht der DM, ohne
   vorab das Ziel zu verraten — aber das **Ergebnis** wird, sobald sinnvoll, offengelegt.
   Niemals das *Resultat* fälschen.
+- **Sicherheitsnetz-Prompt (von Björn gewünscht — VERBINDLICH):** Geht eine *wichtige*
+  Probe (story- oder überlebensrelevant) **schief** und Caspian hat noch ein Mittel, den
+  Wurf **nachträglich zu drehen** (**Heroic Inspiration**, **Lucky**-Punkte o. Ä.), dann
+  **erst kurz nachfragen**, ob er es einsetzen will — **bevor** die Konsequenz erzählt wird.
+  Erst nach seiner Antwort weitererzählen. Das verhindert „Du löst die Falle aus … ach, doch
+  nicht". Gilt **auch**, wenn er von der Probe vorher nichts wusste — das Nachfragen darf
+  ruhig verraten, dass gerade etwas auf dem Spiel stand (genau das ist gewollt). Bei
+  **belanglosen** Würfen entfällt der Prompt (kein Prompt-Spam, analog Cutting-Words-Variante-A).
 
 ---
 

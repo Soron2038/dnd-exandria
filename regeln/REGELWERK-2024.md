@@ -178,6 +178,11 @@ Beim **Angreifen** kann ein unbewaffneter Schlag eine der drei Optionen wählen:
   belanglose Treffer lösen **keinen** Prompt aus. So bleibt es ein Schlüssel-Werkzeug, ohne den Fluss zu stören.
   *(Von Björn gewählt.)*
 
+- **Sicherheitsnetz-Prompt für nachträgliche „Wurf-Dreher":** Schlägt eine *wichtige* Probe fehl
+  und Caspian kann sie noch drehen (Heroic Inspiration, Lucky …), fragt der DM **vor** der
+  Konsequenz nach, ob er es einsetzen will. Details siehe **Würfel-Protokoll** in `CLAUDE.md`.
+  *(Von Björn gewünscht.)*
+
 ---
 
 ### Quick-Check vor Regelentscheidungen
